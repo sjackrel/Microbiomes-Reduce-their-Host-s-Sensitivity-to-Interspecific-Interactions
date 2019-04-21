@@ -1,0 +1,91 @@
+Time_Point,Monoculture_or_Biculture,Treatment,Treatment2,Comparisons,Bacteria,Axis_Order,Species_A,Species_B,Treatment_#,mG/mL,r(D1-D0),r(D1-D0)perday
+T3,Monoculture,Cm,Cm,1,Axenic,1,Cm_axenic,,1A,,3.555348061,3.281815385
+T3,Monoculture,Cm,Cm,1,Axenic,1,Cm_axenic,,1C,1.083333333,3.455275129,3.189507692
+T3,Monoculture,Sa,Sa,2,Axenic,1,Sa_axenic,,2A,,2.813430717,2.596984615
+T3,Monoculture,Sa,Sa,2,Axenic,1,Sa_axenic,,2B,0.681818182,1.897169984,1.751261538
+T3,Monoculture,Sa,Sa,2,Axenic,1,Sa_axenic,,2C,1.107142857,2.877961738,2.656615385
+T3,Monoculture,Mm,Mm,3,Axenic,1,Mm_axenic,,3B,0.65,2.63109716,2.428707692
+T3,Monoculture,Mm,Mm,3,Axenic,1,Mm_axenic,,3C,0.672222222,2.356694419,2.175415385
+T3,Monoculture,Sc,Sc,4,Axenic,1,Sc_axenic,,4A,,4.576997023,4.224923077
+T3,Monoculture,Sc,Sc,4,Axenic,1,Sc_axenic,,4B,0.728571429,4.027331872,3.717507692
+T3,Monoculture,Sc,Sc,4,Axenic,1,Sc_axenic,,4C,0.6625,3.781663719,3.4908
+T3,Monoculture,Cm,Cm,1,Xenic,1,Cm_xenic,,5A,,3.889552422,3.5904
+T3,Monoculture,Cm,Cm,1,Xenic,1,Cm_xenic,,5B,1.116666667,3.854859886,3.558369231
+T3,Monoculture,Cm,Cm,1,Xenic,1,Cm_xenic,,5C,0.910526316,3.923081633,3.621323077
+T3,Monoculture,Sa,Sa,2,Xenic,1,Sa_xenic,,6A,,1.609437912,1.4856
+T3,Monoculture,Sa,Sa,2,Xenic,1,Sa_xenic,,6B,0.877777778,2.120223535,1.957107692
+T3,Monoculture,Sa,Sa,2,Xenic,1,Sa_xenic,,6C,0.869230769,2.547724942,2.351723077
+T3,Monoculture,Mm,Mm,3,Xenic,1,Mm_xenic,,7A,0.938888889,2.590242165,2.390953846
+T3,Monoculture,Mm,Mm,3,Xenic,1,Mm_xenic,,7B,0.705555556,2.590242165,2.390953846
+T3,Monoculture,Mm,Mm,3,Xenic,1,Mm_xenic,,7C,0.738888889,2.547724942,2.351723077
+T3,Monoculture,Sc,Sc,4,Xenic,1,Sc_xenic,,8A,,3.218875825,2.971292308
+T3,Monoculture,Sc,Sc,4,Xenic,1,Sc_xenic,,8B,0.864705882,3.539334817,3.267046154
+T3,Biculture,Cm+Sa,S.a. Invading C.m.,2,Axenic,2,Cm_axenic,Sa_axenic,9A,,3.742941412,3.455022842
+T3,Biculture,Cm+Sa,S.a. Invading C.m.,2,Axenic,2,Cm_axenic,Sa_axenic,9B,2.93125,3.555348061,3.281815385
+T3,Biculture,Cm+Sa,S.a. Invading C.m.,2,Axenic,2,Cm_axenic,Sa_axenic,9C,2.55625,3.768914469,3.478984615
+T3,Biculture,Cm+Sa,S.a. Invading C.m.,2,Xenic,2,Cm_xenic,Sa_xenic,10A,3.81875,3.382490154,3.122307692
+T3,Biculture,Cm+Sa,S.a. Invading C.m.,2,Xenic,2,Cm_xenic,Sa_xenic,10B,3.61875,3.196384787,2.950523077
+T3,Biculture,Cm+Sa,S.a. Invading C.m.,2,Xenic,2,Cm_xenic,Sa_xenic,10C,2.86,3.125795158,2.885353846
+Biculture,Biculture,Cm+Mm,M.m. Invading C.m.,3,Axenic,3,Cm_axenic,Mm_axenic,11A,,2.590242165,2.390992768
+Biculture,Biculture,Cm+Mm,M.m. Invading C.m.,3,Axenic,3,Cm_axenic,Mm_axenic,11B,2.73125,2.708050201,2.499784615
+T3,Biculture,Cm+Mm,M.m. Invading C.m.,3,Axenic,3,Cm_axenic,Mm_axenic,11C,2.56875,2.302585093,2.125476923
+T3,Biculture,Cm+Mm,M.m. Invading C.m.,3,Xenic,3,Cm_xenic,Mm_xenic,12A,1.79375,2.708050201,2.499784615
+T3,Biculture,Cm+Mm,M.m. Invading C.m.,3,Xenic,3,Cm_xenic,Mm_xenic,12B,,2.63109716,2.428707692
+T3,Biculture,Cm+Mm,M.m. Invading C.m.,3,Xenic,3,Cm_xenic,Mm_xenic,12C,2.770588235,2.708050201,2.499784615
+T3,Biculture,Cm+Sc,S.c. Invading C.m.,4,Axenic,4,Cm_axenic,Sc_axenic,13A,3.19375,2.708050201,2.499784615
+T3,Biculture,Cm+Sc,S.c. Invading C.m.,4,Axenic,4,Cm_axenic,Sc_axenic,13B,,2.967538539,2.739266344
+T3,Biculture,Cm+Sc,S.c. Invading C.m.,4,Axenic,4,Cm_axenic,Sc_axenic,13C,3.31875,2.356694419,2.175415385
+T3,Biculture,Cm+Sc,S.c. Invading C.m.,4,Xenic,4,Cm_xenic,Sc_xenic,14A,4.54375,2.967538539,2.739230769
+T3,Biculture,Cm+Sc,S.c. Invading C.m.,4,Xenic,4,Cm_xenic,Sc_xenic,14B,2.347058824,3.023152869,2.790646154
+T3,Biculture,Cm+Sc,S.c. Invading C.m.,4,Xenic,4,Cm_xenic,Sc_xenic,14C,2.20625,2.503237606,2.310646154
+T3,Biculture,Sa+Cm,C.m. Invading S.a. ,1,Axenic,5,Sa_axenic,Cm_axenic,15A,3.1,2.63109716,2.428707692
+T3,Biculture,Sa+Cm,C.m. Invading S.a. ,1,Axenic,5,Sa_axenic,Cm_axenic,15B,3.216666667,2.877961738,2.656615385
+T3,Biculture,Sa+Cm,C.m. Invading S.a. ,1,Axenic,5,Sa_axenic,Cm_axenic,15C,2.1625,2.503237606,2.310646154
+T3,Biculture,Sa+Cm,C.m. Invading S.a. ,1,Xenic,5,Sa_xenic,Cm_xenic,16A,3.15,2.670279103,2.464892308
+T3,Biculture,Sa+Cm,C.m. Invading S.a. ,1,Xenic,5,Sa_xenic,Cm_xenic,16B,3.814285714,2.967538539,2.739230769
+T3,Biculture,Sa+Cm,C.m. Invading S.a. ,1,Xenic,5,Sa_xenic,Cm_xenic,16C,2.611111111,1.977131923,1.825015385
+T3,Biculture,Sa+Mm,M.m Invading S.a.,3,Axenic,6,Sa_axenic,Mm_axenic,17A,1.928571429,2.120223535,1.957107692
+T3,Biculture,Sa+Mm,M.m Invading S.a.,3,Axenic,6,Sa_axenic,Mm_axenic,17C,3.042857143,2.708050201,2.499784615
+T3,Biculture,Sa+Mm,M.m Invading S.a.,3,Xenic,6,Sa_xenic,Mm_xenic,18A,2.541666667,2.407935609,2.222676923
+T3,Biculture,Sa+Mm,M.m Invading S.a.,3,Xenic,6,Sa_xenic,Mm_xenic,18B,2.445454545,2.503237606,2.310646154
+T3,Biculture,Sa+Mm,M.m Invading S.a.,3,Xenic,6,Sa_xenic,Mm_xenic,18C,3.071428571,2.503237606,2.310646154
+T3,Biculture,Sa+Sc,S.c. Invading S.a.,4,Axenic,7,Sa_axenic,Sc_axenic,19A,1.8875,2.708050201,2.499784615
+T3,Biculture,Sa+Sc,S.c. Invading S.a.,4,Axenic,7,Sa_axenic,Sc_axenic,19B,,2.54764668,2.351673858
+T3,Biculture,Sa+Sc,S.c. Invading S.a.,4,Axenic,7,Sa_axenic,Sc_axenic,19C,2.416666667,2.708050201,2.499784615
+T3,Biculture,Sa+Sc,S.c. Invading S.a.,4,Xenic,7,Sa_xenic,Sc_xenic,20A,3.055555556,3.125795158,2.885353846
+T3,Biculture,Sa+Sc,S.c. Invading S.a.,4,Xenic,7,Sa_xenic,Sc_xenic,20B,2.655555556,2.967538539,2.739230769
+T3,Biculture,Sa+Sc,S.c. Invading S.a.,4,Xenic,7,Sa_xenic,Sc_xenic,20C,2.609090909,2.938579742,2.712553846
+T3,Biculture,Mm+Cm,C.m. Invading M.m.,1,Axenic,8,Mm_axenic,Cm_axenic,21A,2.1875,2.503237606,2.310646154
+T3,Biculture,Mm+Cm,C.m. Invading M.m.,1,Axenic,8,Mm_axenic,Cm_axenic,21B,2.5125,2.995732274,2.765261538
+T3,Biculture,Mm+Cm,C.m. Invading M.m.,1,Axenic,8,Mm_axenic,Cm_axenic,21C,2.34,2.184814557,2.016738462
+T3,Biculture,Mm+Cm,C.m. Invading M.m.,1,Xenic,8,Mm_xenic,Cm_xenic,22A,2.388888889,2.547724942,2.351723077
+T3,Biculture,Mm+Cm,C.m. Invading M.m.,1,Xenic,8,Mm_xenic,Cm_xenic,22B,2.77,3.101082789,2.862553846
+T3,Biculture,Mm+Cm,C.m. Invading M.m.,1,Xenic,8,Mm_xenic,Cm_xenic,22C,2.4625,2.995732274,2.765261538
+T3,Biculture,Mm+Sa,S.a. Invading M.m.,2,Axenic,9,Mm_axenic,Sa_axenic,23B,,3.586597528,3.310707692
+T3,Biculture,Mm+Sa,S.a. Invading M.m.,2,Axenic,9,Mm_axenic,Sa_axenic,23C,3.277777778,3.831051533,3.5364
+T3,Biculture,Mm+Sa,S.a. Invading M.m.,2,Xenic,9,Mm_xenic,Sa_xenic,24A,2.2125,2.877961738,2.656580066
+T3,Biculture,Mm+Sa,S.a. Invading M.m.,2,Xenic,9,Mm_xenic,Sa_xenic,24B,2.471428571,2.938579742,2.712535146
+T3,Biculture,Mm+Sa,S.a. Invading M.m.,2,Xenic,9,Mm_xenic,Sa_xenic,24C,2.242857143,3.196384787,2.950509034
+T3,Biculture,Mm+Sc,S.c. Invading M.m.,4,Axenic,10,Mm_axenic,Sc_axenic,25B,2.45,2.503237606,2.310680867
+T3,Biculture,Mm+Sc,S.c. Invading M.m.,4,Axenic,10,Mm_axenic,Sc_axenic,25C,2.411111111,2.813430717,2.596994508
+T3,Biculture,Mm+Sc,S.c. Invading M.m.,4,Xenic,10,Mm_xenic,Sc_xenic,26A,2.17,3.075790366,2.839176906
+T3,Biculture,Mm+Sc,S.c. Invading M.m.,4,Xenic,10,Mm_xenic,Sc_xenic,26B,2.242857143,2.967538539,2.739287442
+T3,Biculture,Mm+Sc,S.c. Invading M.m.,4,Xenic,10,Mm_xenic,Sc_xenic,26C,2.11,2.813430717,2.596994508
+T3,Biculture,Sc+Cm,C.m. Invading S.c. ,1,Axenic,11,Sc_axenic,Cm_axenic,27A,1.614285714,1.714878425,1.582890857
+T3,Biculture,Sc+Cm,C.m. Invading S.c. ,1,Axenic,11,Sc_axenic,Cm_axenic,27B,2.78,3.049794232,2.815199534
+T3,Biculture,Sc+Cm,C.m. Invading S.c. ,1,Axenic,11,Sc_axenic,Cm_axenic,27C,2.116666667,2.245379619,2.07270155
+T3,Biculture,Sc+Cm,C.m. Invading S.c. ,1,Xenic,11,Sc_xenic,Cm_xenic,28A,2.433333333,2.456764344,2.267756098
+T3,Biculture,Sc+Cm,C.m. Invading S.c. ,1,Xenic,11,Sc_xenic,Cm_xenic,28B,1.85,3.173418102,2.929304724
+T3,Biculture,Sc+Cm,C.m. Invading S.c. ,1,Xenic,11,Sc_xenic,Cm_xenic,28C,2.42,2.456764344,2.267756098
+T3,Biculture,Sc+Sa,S.a. Invading S.c.,2,Axenic,12,Sc_axenic,Sa_axenic,29A,1.816666667,3.472649449,3.205528935
+T3,Biculture,Sc+Sa,S.a. Invading S.c.,2,Axenic,12,Sc_axenic,Sa_axenic,29B,1.585714286,3.437561454,3.173136947
+T3,Biculture,Sc+Sa,S.a. Invading S.c.,2,Axenic,12,Sc_axenic,Sa_axenic,29C,1.5,3.382490154,3.122312537
+T3,Biculture,Sc+Sa,S.a. Invading S.c.,2,Xenic,12,Sc_xenic,Sa_xenic,30A,2.385714286,2.967538539,2.739287442
+T3,Biculture,Sc+Sa,S.a. Invading S.c.,2,Xenic,12,Sc_xenic,Sa_xenic,30B,2.3875,3.283426846,3.030844012
+T3,Biculture,Sc+Sa,S.a. Invading S.c.,2,Xenic,12,Sc_xenic,Sa_xenic,30C,2.283333333,3.30402547,3.0498772
+T3,Biculture,Sc+Mm,M.m Invading S.c.,3,Axenic,13,Sc_axenic,Mm_axenic,31A,1.455555556,2.503237606,2.310680867
+T3,Biculture,Sc+Mm,M.m Invading S.c.,3,Axenic,13,Sc_axenic,Mm_axenic,31B,2.46,2.184814557,2.016751899
+T3,Biculture,Sc+Mm,M.m Invading S.c.,3,Axenic,13,Sc_axenic,Mm_axenic,31C,2.02,2.184814557,2.016751899
+T3,Biculture,Sc+Mm,M.m Invading S.c.,3,Xenic,13,Sc_xenic,Mm_xenic,32A,1.754545455,4.927253685,4.548234171
+T3,Biculture,Sc+Mm,M.m Invading S.c.,3,Xenic,13,Sc_xenic,Mm_xenic,32B,,6.026732748,5.563137921
+T3,Biculture,Sc+Mm,M.m Invading S.c.,3,Xenic,13,Sc_xenic,Mm_xenic,32C,1.411111111,6.149687638,5.676634743

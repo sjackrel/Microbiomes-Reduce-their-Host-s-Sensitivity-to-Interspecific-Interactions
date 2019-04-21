@@ -1,0 +1,188 @@
+Combo,Invader,Bacteria,Sensitivities,Time_Point,Replicate,Combo,Invader,X-A_Sensitivities
+C.m. Invading S.a.,Cm,Axenic,0.249393775,D1_D0,15A,C.m. Invading S.a.,Cm,0.064012581
+C.m. Invading S.a.,Cm,Axenic,0.178957579,D1_D0,15B,C.m. Invading S.a.,Cm,0.134448777
+C.m. Invading S.a.,Cm,Axenic,0.28588138,D1_D0,15C,C.m. Invading S.a.,Cm,0.027524976
+C.m. Invading S.a.,Cm,Xenic,0.313406356,D1_D0,16A,C.m. Invading S.a.,Cm,-0.012404163
+C.m. Invading S.a.,Cm,Xenic,0.236989612,D1_D0,16B,C.m. Invading S.a.,Cm,0.058032033
+C.m. Invading S.a.,Cm,Xenic,0.491643526,D1_D0,16C,C.m. Invading S.a.,Cm,-0.048891768
+C.m. Invading M.m.,Cm,Axenic,0.28588138,D1_D0,21A,C.m. Invading S.a.,Cm,0.242249751
+C.m. Invading M.m.,Cm,Axenic,0.145379853,D1_D0,21B,C.m. Invading S.a.,Cm,0.312685947
+C.m. Invading M.m.,Cm,Axenic,0.37671526,D1_D0,21C,C.m. Invading S.a.,Cm,0.205762146
+C.m. Invading M.m.,Cm,Xenic,0.344929548,D1_D0,22A,C.m. Invading M.m.,Cm,0.059048168
+C.m. Invading M.m.,Cm,Xenic,0.202638075,D1_D0,22B,C.m. Invading M.m.,Cm,0.199549695
+C.m. Invading M.m.,Cm,Xenic,0.229738764,D1_D0,22C,C.m. Invading M.m.,Cm,-0.031785712
+C.m. Invading S.c.,Cm,Axenic,0.510798383,D1_D0,27A,C.m. Invading M.m.,Cm,-0.083243305
+C.m. Invading S.c.,Cm,Axenic,0.129946226,D1_D0,27B,C.m. Invading M.m.,Cm,0.057258222
+C.m. Invading S.c.,Cm,Axenic,0.359419542,D1_D0,27C,C.m. Invading M.m.,Cm,-0.174077185
+C.m. Invading S.c.,Cm,Xenic,0.368318479,D1_D0,28A,C.m. Invading M.m.,Cm,-0.056142616
+C.m. Invading S.c.,Cm,Xenic,0.184044675,D1_D0,28B,C.m. Invading M.m.,Cm,0.084358911
+C.m. Invading S.c.,Cm,Xenic,0.368318479,D1_D0,28C,C.m. Invading M.m.,Cm,-0.146976496
+M.m. Invading C.m.,Mm,Axenic,-0.038631126,D1_D0,11A,C.m. Invading S.c.,Cm,-0.142479904
+M.m. Invading C.m.,Mm,Axenic,-0.085889571,D1_D0,11B,C.m. Invading S.c.,Cm,0.238372253
+M.m. Invading C.m.,Mm,Axenic,0.076707165,D1_D0,11C,C.m. Invading S.c.,Cm,0.008898937
+M.m. Invading C.m.,Mm,Xenic,-0.051267453,D1_D0,12A,C.m. Invading S.c.,Cm,-0.326753708
+M.m. Invading C.m.,Mm,Xenic,-0.021376535,D1_D0,12B,C.m. Invading S.c.,Cm,0.054098449
+M.m. Invading C.m.,Mm,Xenic,-0.051267453,D1_D0,12C,C.m. Invading S.c.,Cm,-0.175374867
+M.m. Invading S.a.,Mm,Axenic,0.149845623,D1_D0,17A,C.m. Invading S.c.,Cm,-0.142479904
+M.m. Invading S.a.,Mm,Axenic,-0.085889571,D1_D0,17C,C.m. Invading S.c.,Cm,0.238372253
+M.m. Invading S.a.,Mm,Xenic,0.065268307,D1_D0,18A,C.m. Invading S.c.,Cm,0.008898937
+M.m. Invading S.a.,Mm,Xenic,0.028273444,D1_D0,18B,M.m. Invading C.m.,Mm,-0.012636327
+M.m. Invading S.a.,Mm,Xenic,0.028273444,D1_D0,18C,M.m. Invading C.m.,Mm,0.034622118
+S.a. Invading C.m.,Sa,Axenic,-0.479696418,D1_D0,9A,M.m. Invading C.m.,Mm,-0.127974618
+S.a. Invading C.m.,Sa,Axenic,-0.405516169,D1_D0,9B,M.m. Invading C.m.,Mm,0.017254591
+S.a. Invading C.m.,Sa,Axenic,-0.489958622,D1_D0,9C,M.m. Invading C.m.,Mm,0.064513036
+S.a. Invading C.m.,Sa,Xenic,-0.616538958,D1_D0,10A,M.m. Invading C.m.,Mm,-0.0980837
+S.a. Invading C.m.,Sa,Xenic,-0.527599446,D1_D0,10B,M.m. Invading C.m.,Mm,-0.012636327
+S.a. Invading C.m.,Sa,Xenic,-0.493858825,D1_D0,10C,M.m. Invading C.m.,Mm,0.034622118
+S.a. Invading M.m.,Sa,Axenic,-0.417889993,D1_D0,23B,M.m. Invading C.m.,Mm,-0.127974618
+S.a. Invading M.m.,Sa,Axenic,-0.514548138,D1_D0,23C,M.m. Invading S.a.,Mm,-0.084577316
+S.a. Invading M.m.,Sa,Xenic,-0.375413827,D1_D0,24A,M.m. Invading S.a.,Mm,0.151157878
+S.a. Invading M.m.,Sa,Xenic,-0.404383927,D1_D0,24B,M.m. Invading S.a.,Mm,-0.121572179
+S.a. Invading M.m.,Sa,Xenic,-0.527592175,D1_D0,24C,M.m. Invading S.a.,Mm,0.114163015
+S.a. Invading S.c.,Sa,Axenic,-0.372844667,D1_D0,29A,M.m. Invading S.a.,Mm,-0.121572179
+S.a. Invading S.c.,Sa,Axenic,-0.358972021,D1_D0,29B,M.m. Invading S.a.,Mm,0.114163015
+S.a. Invading S.c.,Sa,Axenic,-0.337205248,D1_D0,29C,S.a. Invading C.m.,Sa,-0.13684254
+S.a. Invading S.c.,Sa,Xenic,-0.418234621,D1_D0,30A,S.a. Invading C.m.,Sa,-0.211022789
+S.a. Invading S.c.,Sa,Xenic,-0.569184687,D1_D0,30B,S.a. Invading C.m.,Sa,-0.126580336
+S.a. Invading S.c.,Sa,Xenic,-0.579038902,D1_D0,30C,S.a. Invading C.m.,Sa,-0.047903028
+S.c. Invading C.m.,Sc,Axenic,0.344073954,D1_D0,13A,S.a. Invading C.m.,Sa,-0.122083277
+S.c. Invading C.m.,Sc,Axenic,0.28123562,D1_D0,13B,S.a. Invading C.m.,Sa,-0.037640824
+S.c. Invading C.m.,Sc,Axenic,0.429186178,D1_D0,13C,S.a. Invading C.m.,Sa,-0.014162407
+S.c. Invading C.m.,Sc,Xenic,0.121807582,D1_D0,14A,S.a. Invading C.m.,Sa,-0.088342656
+S.c. Invading C.m.,Sc,Xenic,0.105323903,D1_D0,14B,S.a. Invading C.m.,Sa,-0.003900203
+S.c. Invading C.m.,Sc,Xenic,0.259211033,D1_D0,14C,S.a. Invading M.m.,Sa,0.042476166
+S.c. Invading S.a.,Sc,Axenic,0.344073954,D1_D0,19A,S.a. Invading M.m.,Sa,0.139134311
+S.c. Invading S.a.,Sc,Axenic,0.382937184,D1_D0,19B,S.a. Invading M.m.,Sa,0.013506066
+S.c. Invading S.a.,Sc,Axenic,0.344073954,D1_D0,19C,S.a. Invading M.m.,Sa,0.110164211
+S.c. Invading S.a.,Sc,Xenic,0.074960788,D1_D0,20A,S.a. Invading M.m.,Sa,-0.109702182
+S.c. Invading S.a.,Sc,Xenic,0.121807582,D1_D0,20B,S.a. Invading M.m.,Sa,-0.013044037
+S.c. Invading S.a.,Sc,Xenic,0.130360155,D1_D0,20C,S.a. Invading S.c.,Sa,-0.045389954
+S.c. Invading M.m.,Sc,Axenic,0.393693459,D1_D0,25B,S.a. Invading S.c.,Sa,-0.0592626
+S.c. Invading M.m.,Sc,Axenic,0.318566757,D1_D0,25C,S.a. Invading S.c.,Sa,-0.081029373
+S.c. Invading M.m.,Sc,Xenic,0.089765032,D1_D0,26A,S.a. Invading S.c.,Sa,-0.19634002
+S.c. Invading M.m.,Sc,Xenic,0.121789413,D1_D0,26B,S.a. Invading S.c.,Sa,-0.210212666
+S.c. Invading M.m.,Sc,Xenic,0.167408269,D1_D0,26C,S.a. Invading S.c.,Sa,-0.231979439
+M.m. Invading S.c.,Mm,Axenic,-0.003744178,D1_D0,31A,S.a. Invading S.c.,Sa,-0.206194235
+M.m. Invading S.c.,Mm,Axenic,0.123936582,D1_D0,31B,S.a. Invading S.c.,Sa,-0.220066881
+M.m. Invading S.c.,Mm,Axenic,0.123936582,D1_D0,31C,S.a. Invading S.c.,Sa,-0.241833654
+M.m. Invading S.c.,Mm,Xenic,-0.477186786,D1_D0,32A,S.c. Invading C.m.,Sc,-0.222266372
+M.m. Invading S.c.,Mm,Xenic,-0.572565528,D1_D0,32B,S.c. Invading C.m.,Sc,-0.159428038
+M.m. Invading S.c.,Mm,Xenic,-0.594467208,D1_D0,32C,S.c. Invading C.m.,Sc,-0.307378596
+C.m. Invading S.a.,Cm,Axenic,0.5084287,D0_D4,15A,S.c. Invading C.m.,Sc,-0.238750051
+C.m. Invading S.a.,Cm,Axenic,0.546347838,D0_D4,15B,S.c. Invading C.m.,Sc,-0.175911717
+C.m. Invading S.a.,Cm,Axenic,0.539930928,D0_D4,15C,S.c. Invading C.m.,Sc,-0.323862275
+C.m. Invading S.a.,Cm,Xenic,0.491466167,D0_D4,16A,S.c. Invading C.m.,Sc,-0.084862921
+C.m. Invading S.a.,Cm,Xenic,0.491466167,D0_D4,16B,S.c. Invading C.m.,Sc,-0.022024587
+C.m. Invading S.a.,Cm,Xenic,0.48924617,D0_D4,16C,S.c. Invading C.m.,Sc,-0.169975145
+C.m. Invading M.m.,Cm,Axenic,0.553004435,D0_D4,21A,S.c. Invading S.a.,Sc,-0.269113166
+C.m. Invading M.m.,Cm,Axenic,0.481872233,D0_D4,21B,S.c. Invading S.a.,Sc,-0.307976396
+C.m. Invading M.m.,Cm,Axenic,0.431885165,D0_D4,21C,S.c. Invading S.a.,Sc,-0.269113166
+C.m. Invading M.m.,Cm,Xenic,0.308223737,D0_D4,22A,S.c. Invading S.a.,Sc,-0.222266372
+C.m. Invading M.m.,Cm,Xenic,0.412752917,D0_D4,22B,S.c. Invading S.a.,Sc,-0.261129602
+C.m. Invading M.m.,Cm,Xenic,0.396787974,D0_D4,22C,S.c. Invading S.a.,Sc,-0.222266372
+C.m. Invading S.c.,Cm,Axenic,0.553004435,D0_D4,27A,S.c. Invading S.a.,Sc,-0.213713799
+C.m. Invading S.c.,Cm,Axenic,0.628823127,D0_D4,27B,S.c. Invading S.a.,Sc,-0.252577029
+C.m. Invading S.c.,Cm,Axenic,0.491056788,D0_D4,27C,S.c. Invading S.a.,Sc,-0.213713799
+C.m. Invading S.c.,Cm,Xenic,0.412752917,D0_D4,28A,S.c. Invading M.m.,Sc,-0.303928427
+C.m. Invading S.c.,Cm,Xenic,0.457246055,D0_D4,28B,S.c. Invading M.m.,Sc,-0.228801725
+C.m. Invading S.c.,Cm,Xenic,0.50302166,D0_D4,28C,S.c. Invading M.m.,Sc,-0.271904046
+M.m. Invading C.m.,Mm,Axenic,0.507980859,D0_D4,11B,S.c. Invading M.m.,Sc,-0.196777344
+M.m. Invading C.m.,Mm,Axenic,0.57169851,D0_D4,11C,S.c. Invading M.m.,Sc,-0.22628519
+M.m. Invading C.m.,Mm,Xenic,0.552434093,D0_D4,12A,S.c. Invading M.m.,Sc,-0.151158488
+M.m. Invading C.m.,Mm,Xenic,0.563639585,D0_D4,12B,M.m. Invading S.c.,Mm,-0.473442608
+M.m. Invading C.m.,Mm,Xenic,0.578655433,D0_D4,12C,M.m. Invading S.c.,Mm,-0.601123368
+M.m. Invading S.a.,Mm,Axenic,0.590303773,D0_D4,17A,M.m. Invading S.c.,Mm,-0.601123368
+M.m. Invading S.a.,Mm,Axenic,0.648971624,D0_D4,17C,M.m. Invading S.c.,Mm,-0.56882135
+M.m. Invading S.a.,Mm,Xenic,0.558181459,D0_D4,18A,M.m. Invading S.c.,Mm,-0.69650211
+M.m. Invading S.a.,Mm,Xenic,0.608049016,D0_D4,18B,M.m. Invading S.c.,Mm,-0.69650211
+M.m. Invading S.a.,Mm,Xenic,0.658305647,D0_D4,18C,M.m. Invading S.c.,Mm,-0.59072303
+S.a. Invading C.m.,Sa,Axenic,0.227775609,D0_D4,9B,M.m. Invading S.c.,Mm,-0.71840379
+S.a. Invading C.m.,Sa,Axenic,0.199275834,D0_D4,9C,M.m. Invading S.c.,Mm,-0.71840379
+S.a. Invading C.m.,Sa,Xenic,0.290542174,D0_D4,10A,,,
+S.a. Invading C.m.,Sa,Xenic,0.269293532,D0_D4,10B,,,
+S.a. Invading C.m.,Sa,Xenic,0.290185178,D0_D4,10C,,,
+S.a. Invading M.m.,Sa,Axenic,0.198886238,D0_D4,23B,,,
+S.a. Invading M.m.,Sa,Axenic,0.351232847,D0_D4,23C,,,
+S.a. Invading M.m.,Sa,Xenic,0.252493707,D0_D4,24A,,,
+S.a. Invading M.m.,Sa,Xenic,0.142862417,D0_D4,24B,,,
+S.a. Invading M.m.,Sa,Xenic,0.207421337,D0_D4,24C,,,
+S.a. Invading S.c.,Sa,Axenic,0.218809056,D0_D4,29A,,,
+S.a. Invading S.c.,Sa,Axenic,0.20362427,D0_D4,29B,,,
+S.a. Invading S.c.,Sa,Axenic,0.3568562,D0_D4,29C,,,
+S.a. Invading S.c.,Sa,Xenic,0.263867679,D0_D4,30A,,,
+S.a. Invading S.c.,Sa,Xenic,0.227977274,D0_D4,30B,,,
+S.a. Invading S.c.,Sa,Xenic,0.401788505,D0_D4,30C,,,
+S.c. Invading C.m.,Sc,Axenic,0.562296538,D0_D4,13A,,,
+S.c. Invading C.m.,Sc,Axenic,0.562296538,D0_D4,13C,,,
+S.c. Invading C.m.,Sc,Xenic,0.531530717,D0_D4,14A,,,
+S.c. Invading C.m.,Sc,Xenic,0.521287172,D0_D4,14B,,,
+S.c. Invading C.m.,Sc,Xenic,0.536119819,D0_D4,14C,,,
+S.c. Invading S.a.,Sc,Axenic,0.659133937,D0_D4,19A,,,
+S.c. Invading S.a.,Sc,Axenic,0.693336461,D0_D4,19C,,,
+S.c. Invading S.a.,Sc,Xenic,0.617074945,D0_D4,20A,,,
+S.c. Invading S.a.,Sc,Xenic,0.611372477,D0_D4,20B,,,
+S.c. Invading S.a.,Sc,Xenic,0.600578303,D0_D4,20C,,,
+S.c. Invading M.m.,Sc,Axenic,0.522114473,D0_D4,25B,,,
+S.c. Invading M.m.,Sc,Axenic,0.453030136,D0_D4,25C,,,
+S.c. Invading M.m.,Sc,Xenic,0.531530717,D0_D4,26A,,,
+S.c. Invading M.m.,Sc,Xenic,0.489663451,D0_D4,26B,,,
+S.c. Invading M.m.,Sc,Xenic,0.469322564,D0_D4,26C,,,
+C.m. Invading S.a.,Cm,Axenic,0.889796227,D1_D4,15A,,,
+C.m. Invading S.a.,Cm,Axenic,1.087229717,D1_D4,15B,,,
+C.m. Invading S.a.,Cm,Axenic,0.913975741,D1_D4,15C,,,
+C.m. Invading S.a.,Cm,Xenic,0.824082852,D1_D4,16A,,,
+C.m. Invading S.a.,Cm,Xenic,0.966858889,D1_D4,16B,,,
+C.m. Invading S.a.,Cm,Xenic,0.484791883,D1_D4,16C,,,
+C.m. Invading M.m.,Cm,Axenic,0.946297134,D1_D4,21A,,,
+C.m. Invading M.m.,Cm,Axenic,0.977293194,D1_D4,21B,,,
+C.m. Invading M.m.,Cm,Axenic,0.513113885,D1_D4,21C,,,
+C.m. Invading M.m.,Cm,Xenic,0.239680522,D1_D4,22A,,,
+C.m. Invading M.m.,Cm,Xenic,0.80525193,D1_D4,22B,,,
+C.m. Invading M.m.,Cm,Xenic,0.708863855,D1_D4,22C,,,
+C.m. Invading S.c.,Cm,Axenic,0.61514125,D1_D4,27A,,,
+C.m. Invading S.c.,Cm,Axenic,1.363306213,D1_D4,27B,,,
+C.m. Invading S.c.,Cm,Axenic,0.684860774,D1_D4,27C,,,
+C.m. Invading S.c.,Cm,Xenic,0.495767006,D1_D4,28A,,,
+C.m. Invading S.c.,Cm,Xenic,0.967599071,D1_D4,28B,,,
+C.m. Invading S.c.,Cm,Xenic,0.75467115,D1_D4,28C,,,
+M.m. Invading C.m.,Mm,Axenic,0.811147875,D1_D4,11B,,,
+M.m. Invading C.m.,Mm,Axenic,0.824393855,D1_D4,11C,,,
+M.m. Invading C.m.,Mm,Xenic,0.900252855,D1_D4,12A,,,
+M.m. Invading C.m.,Mm,Xenic,0.900702996,D1_D4,12B,,,
+M.m. Invading C.m.,Mm,Xenic,0.941582307,D1_D4,12C,,,
+M.m. Invading S.a.,Mm,Axenic,0.81516723,D1_D4,17A,,,
+M.m. Invading S.a.,Mm,Axenic,1.024115714,D1_D4,17C,,,
+M.m. Invading S.a.,Mm,Xenic,0.842186636,D1_D4,18A,,,
+M.m. Invading S.a.,Mm,Xenic,0.942102399,D1_D4,18B,,,
+M.m. Invading S.a.,Mm,Xenic,1.021315705,D1_D4,18C,,,
+S.a. Invading C.m.,Sa,Axenic,0.685433144,D1_D4,9B,,,
+S.a. Invading C.m.,Sa,Axenic,0.697350209,D1_D4,9C,,,
+S.a. Invading C.m.,Sa,Xenic,0.783416322,D1_D4,10A,,,
+S.a. Invading C.m.,Sa,Xenic,0.702293026,D1_D4,10B,,,
+S.a. Invading C.m.,Sa,Xenic,0.716205756,D1_D4,10C,,,
+S.a. Invading M.m.,Sa,Axenic,0.644594669,D1_D4,23B,,,
+S.a. Invading M.m.,Sa,Axenic,0.976868023,D1_D4,23C,,,
+S.a. Invading M.m.,Sa,Xenic,0.593675157,D1_D4,24A,,,
+S.a. Invading M.m.,Sa,Xenic,0.440214057,D1_D4,24B,,,
+S.a. Invading M.m.,Sa,Xenic,0.606800782,D1_D4,24C,,,
+S.a. Invading S.c.,Sa,Axenic,0.646361659,D1_D4,29A,,,
+S.a. Invading S.c.,Sa,Axenic,0.597055291,D1_D4,29B,,,
+S.a. Invading S.c.,Sa,Axenic,0.594451368,D1_D4,29C,,,
+S.a. Invading S.c.,Sa,Xenic,0.763543907,D1_D4,30A,,,
+S.a. Invading S.c.,Sa,Xenic,0.716519064,D1_D4,30B,,,
+S.a. Invading S.c.,Sa,Xenic,0.666481067,D1_D4,30C,,,
+S.c. Invading C.m.,Sc,Axenic,0.885765758,D1_D4,13A,,,
+S.c. Invading C.m.,Sc,Axenic,0.759613788,D1_D4,13C,,,
+S.c. Invading C.m.,Sc,Xenic,0.92802369,D1_D4,14A,,,
+S.c. Invading C.m.,Sc,Xenic,0.923794078,D1_D4,14B,,,
+S.c. Invading C.m.,Sc,Xenic,0.804090169,D1_D4,14C,,,
+S.c. Invading S.a.,Sc,Axenic,1.12615197,D1_D4,19A,,,
+S.c. Invading S.a.,Sc,Axenic,1.211055277,D1_D4,19C,,,
+S.c. Invading S.a.,Sc,Xenic,1.141668342,D1_D4,20A,,,
+S.c. Invading S.a.,Sc,Xenic,1.085127192,D1_D4,20B,,,
+S.c. Invading S.a.,Sc,Xenic,1.055594618,D1_D4,20C,,,
+S.c. Invading M.m.,Sc,Axenic,0.712482413,D1_D4,25B,,,
+S.c. Invading M.m.,Sc,Axenic,0.652355162,D1_D4,25C,,,
+S.c. Invading M.m.,Sc,Xenic,0.959019727,D1_D4,26A,,,
+S.c. Invading M.m.,Sc,Xenic,0.84564861,D1_D4,26B,,,
+S.c. Invading M.m.,Sc,Xenic,0.761479483,D1_D4,26C,,,
